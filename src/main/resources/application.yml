@@ -1,0 +1,4 @@
+telegram.bot:
+    token: "YOUR_TOKEN"
+    username: "YOUR_BOT_USERNAME"
+    creatorId: 0
